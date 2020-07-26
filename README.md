@@ -15,6 +15,6 @@
 </p>
 
 ####  I have extensive knowledge of DevOps and Data Science.
-####  I'm a Blockchain enthusiast and love to build decentralised applications. I have quite a bit experience with Solidity for blockchain.   
+####  I'm a Blockchain enthusiast and love to build decentralised applications. I have quite a bit experience with Solidity for Blockchain.   
 
 
