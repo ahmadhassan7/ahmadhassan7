@@ -5,7 +5,7 @@
 </div>
 </p>
 
-#### I'm a AI for Medical Researcher, Google Flutter UX Researcher and Google Student Developer Club Lead. 
+#### I'm a AI for Medical Researcher, Google Flutter UX Researcher 
 #### 
 #### SpaceX is :sparkles: 
 <p>
