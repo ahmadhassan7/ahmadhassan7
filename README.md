@@ -16,9 +16,6 @@
   
 
 - ⚡ Fun fact: I can't code without music  
-
-   [![](https://visitcount.itsvg.in/api?id=ahmadhassan7&icon=2&color=12)](https://visitcount.itsvg.in)
-
   
 
 <br/>  
