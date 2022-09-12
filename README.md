@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to absolutely nothing 😇  
   
 
-- ⚡ Fun fact: I can't code without music  
+- ⚡ Fun fact: Nothing, I'm just lazy 
   
 
 <br/>  
@@ -79,5 +79,4 @@
 <br/>  
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31t3zbqim4ukyzjk6hmgdch6ylrm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
