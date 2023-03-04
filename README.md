@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a private project 🕵️  
   
 
-- 🌱 I’m currently learning Svelte and Prisma with MongoDB 
+- 🌱 I’m currently learning Riverpod 2.0  
   
 
 - ❓ Ask me about anything related to absolutely nothing 😇  
