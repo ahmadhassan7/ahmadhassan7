@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a private project 🕵️  
   
 
-- 🌱 I’m currently learning Riverpod 2.0  
+- 🌱 I’m currently learning how to not be lazy
   
 
 - ❓ Ask me about anything related to absolutely nothing 😇  
